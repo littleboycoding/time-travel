@@ -1,0 +1,12 @@
+<svg width="268" height="210" viewBox="0 0 268 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Monitor">
+<path id="Stand" d="M127.938 128.5C130.632 123.833 137.368 123.833 140.062 128.5L166.909 175C169.603 179.667 166.235 185.5 160.847 185.5H107.153C101.765 185.5 98.3967 179.667 101.091 175L127.938 128.5Z" fill="white" stroke="#4BC29E" stroke-width="2"/>
+<rect id="Screen" width="268" height="151" rx="8" fill="url(#paint0_linear_8_40)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_8_40" x1="0" y1="0" x2="268" y2="151" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4BC29E"/>
+<stop offset="1" stop-color="#4C94BC"/>
+</linearGradient>
+</defs>
+</svg>
